@@ -12,7 +12,7 @@ DURATION : 12 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-DESCRIPTION OF THE TASK2:
+# DESCRIPTION OF THE TASK2:
 
 In this task, we used machine learning to perform predictive analysis on a breast cancer dataset using a classification model. The goal was to train a model that can predict a patient's status (e.g., benign or malignant tumor) based on features extracted from medical data. Here's a breakdown of the tools, platforms, and use cases involved.
 
@@ -54,7 +54,7 @@ With the right Python and Jupyter extensions, it offers full support for noteboo
 d. Anaconda
 A distribution that includes Python, Jupyter Notebook, and most commonly used data science libraries.
 
-#OUTPUT:
+# OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/f5ecd329-039a-46f7-bca5-8b87b4600c67)
 
