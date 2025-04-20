@@ -56,3 +56,5 @@ A distribution that includes Python, Jupyter Notebook, and most commonly used da
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f5ecd329-039a-46f7-bca5-8b87b4600c67)
+
