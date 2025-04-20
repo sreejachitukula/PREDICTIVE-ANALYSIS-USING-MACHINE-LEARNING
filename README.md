@@ -16,7 +16,7 @@ MENTOR : NEELA SANTHOSH
 
 In this task, we used machine learning to perform predictive analysis on a breast cancer dataset using a classification model. The goal was to train a model that can predict a patient's status (e.g., benign or malignant tumor) based on features extracted from medical data. Here's a breakdown of the tools, platforms, and use cases involved.
 
-1. Tools and Libraries Used:
+# 1.Tools and Libraries Used:
 
 a. pandas
 pandas is a powerful Python library used for data manipulation and analysis. It helps in loading data from files (like CSV), cleaning it (e.g., handling missing values), and performing data transformations. In this project, it was used to load the dataset and manage data preprocessing.
@@ -35,7 +35,7 @@ Model Evaluation: Tools like confusion_matrix, classification_report, and accura
 c. Logistic Regression
 This is a simple and effective algorithm used when the dependent variable is binary (e.g., “Benign” vs. “Malignant”). It calculates the probability of an event occurring and is widely used in medical and financial domains.
 
-2. Platforms for Development:   
+# 2. Platforms for Development:   
 There are several platforms and environments where you can build and run this kind of machine learning project:
 
 a. Jupyter Notebook
